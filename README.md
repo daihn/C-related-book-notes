@@ -1,2 +1,2 @@
 # ReadNotes
-reading notes
+C related book notes
